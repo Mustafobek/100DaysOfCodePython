@@ -26,3 +26,7 @@ elif (user == 1 and pc == 0) or (user == 2 and pc == 1) or (user == 0 and pc == 
 elif (user == 0 and pc == 1) or (user == 1 and pc == 2) or (user == 2 and pc == 0):
     print(f'user {user} : {pc} computer')
     print('You lose! Computer wins!')
+
+# OUT OF RULES
+elif user > 2 or user < 0:
+    print("Entered number is out of rule!")
