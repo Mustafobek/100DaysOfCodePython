@@ -14,6 +14,7 @@ pc = random.randint(0, 2)
 
 # DRAW CASES
 if (user == pc):
+    print(f'user {user} : {pc} computer')
     print('Draw!!!')
 
 # USER WIN CASES
