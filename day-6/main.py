@@ -27,6 +27,8 @@ while not at_goal():
             move()
         else:
             turn_left()
+    elif front_is_clear():
+        move()
     else:
         turn_right() 
         move()
