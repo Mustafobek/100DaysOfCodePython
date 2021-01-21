@@ -86,4 +86,4 @@ random.shuffle(password_list)               # password_list = random.shuffle(pas
 for element in password_list:
     hard_password += element
 
-print(hard_password)
+print(hard_password) 
