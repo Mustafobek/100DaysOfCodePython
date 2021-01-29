@@ -1,0 +1,23 @@
+Rules of BlackJack or 21
+
+
+----------------------------------------------
+Values
+
+2 = 2
+3 = 3
+...
+10 = 10
+
+J, Q, K = 10
+
+A = 1 or 11 - you can choose the value of ace
+
+
+----------------------------------------------
+Scores
+
+if total score of player cards is more than 21 then player lose
+else if total scores of players are equal then draw
+else if total scores are less then 21, then winner is that whose total score is higher 
+if Dealer ends up smaller than 17, then it must take another card
