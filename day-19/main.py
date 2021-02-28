@@ -1,3 +1,7 @@
+"""
+    Turtle Race Game
+"""
+
 import turtle as t
 import random as rd
 
